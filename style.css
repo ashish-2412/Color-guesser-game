@@ -69,7 +69,7 @@ button:hover{
 #message{
     color:black;
     text-transform: uppercase;
-    height: 30px;
+   
 }
 @media(max-width:768px){
     h1{
