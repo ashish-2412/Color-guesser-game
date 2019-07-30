@@ -70,6 +70,17 @@ button:hover{
     color:black;
     text-transform: uppercase;
     height: 30px;
-   
+}
+@media(max-width:768px){
+    h1{
+        font-size: 15px;
+    }
+    .container{
+        width: 80%;
+        
+    }
+    .square{
+        margin-top:15px;
     
+    }
 }
